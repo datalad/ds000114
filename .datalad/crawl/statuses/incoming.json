@@ -1,0 +1,14 @@
+{
+  "db_version": 1,
+  "files": {
+    "README.txt": {},
+    "ds114_metadata.tgz": {
+      "mtime": 1415372226,
+      "size": 430
+    },
+    "ds114_raw.tgz": {
+      "mtime": 1415303703,
+      "size": 4930156456
+    }
+  }
+}

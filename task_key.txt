@@ -1,0 +1,5 @@
+task001 overt_word_repetition
+task002 covert_verb_generation
+task003 finger_foot_lips
+task004 overt_verb_generation
+task005 line_bisection
