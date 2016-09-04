@@ -2,6 +2,16 @@
   "db_version": 1,
   "files": {
     "README.txt": {},
+    "ds114_R2.0.0_metadata.tgz": {
+      "filename": "ds114_R2.0.0_metadata.tgz",
+      "mtime": 1471638314,
+      "size": 2059
+    },
+    "ds114_R2.0.0_sub-01-10.tgz": {
+      "filename": "ds114_R2.0.0_sub-01-10.tgz",
+      "mtime": 1471638338,
+      "size": 4665038365
+    },
     "ds114_metadata.tgz": {
       "mtime": 1415372226,
       "size": 430
