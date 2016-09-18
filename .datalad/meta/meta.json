@@ -1,0 +1,12 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0rc2.pdf"
+    ],
+    "name": "ds114",
+    "type": "Dataset"
+  }
+]
