@@ -1,6 +1,9 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "b130214a-7df7-11e6-887b-002590f97d84",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
