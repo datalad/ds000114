@@ -1,6 +1,11 @@
 {
   "db_version": 1,
   "files": {
+    "ds000114_R2.0.1_raw.zip": {
+      "filename": "ds000114_R2.0.1_raw.zip",
+      "mtime": 1477699377,
+      "size": 4665193070
+    },
     "ds114_R2.0.0_metadata.tgz": {
       "filename": "ds114_R2.0.0_metadata.tgz",
       "mtime": 1471638314,

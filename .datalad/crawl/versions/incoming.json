@@ -1,12 +1,18 @@
 {
   "db_version": 1,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "versions": [
     [
       "2.0.0",
       {
         "ds114_metadata.tgz": "ds114_R2.0.0_metadata.tgz",
         "ds114_sub-01-10.tgz": "ds114_R2.0.0_sub-01-10.tgz"
+      }
+    ],
+    [
+      "2.0.1",
+      {
+        "ds000114_raw.zip": "ds000114_R2.0.1_raw.zip"
       }
     ]
   ]
