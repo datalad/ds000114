@@ -65,3 +65,17 @@
 1459399183.469998s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub010/BOLD/task004_run002/QA/scrubvols.txt#size=8
 1459399183.760774s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub010/BOLD/task005_run001/QA/scrubvols.txt#size=8
 1459399184.047692s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub010/BOLD/task005_run002/QA/scrubvols.txt#size=8
+1478299699.179496s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task001_run001/QA/scrubvols.txt?versionId=48lIypkjAjf2K9V9HQYi0IvlT2ohLmNr
+1478299708.11216s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task001_run002/QA/scrubvols.txt?versionId=DfLbRQKkwCeWyVdEphKyME2zlL7WM9zO
+1478299740.414617s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task003_run001/QA/scrubvols.txt?versionId=uD_PDQiExEVpMaC1VBfpvwF2vc7o.0te
+1478299768.332332s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task004_run001/QA/scrubvols.txt?versionId=iL0y0.T6_8dR4_BY2yrOEajzX8Xvh6YO
+1478299778.196449s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task004_run002/QA/scrubvols.txt?versionId=LuxjISwJ9msdXfVxzpT2COSmWltQ24U0
+1478302932.726846s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task001_run001/QA/scrubvols.txt?versionId=IhQiNM2_zwItnrs51LrfJIosOLnVJWbe
+1478302944.699266s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=io.lsLMo7Ek8TohHzggkPXb97txeaoo.
+1478302958.454297s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task002_run001/QA/scrubvols.txt?versionId=NUll39lFc.LPYvtyUDh3NggN4R_Z2bJ_
+1478302971.256268s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task002_run002/QA/scrubvols.txt?versionId=pkgEc6e81jP.FIJriYPa0TXQkfICHYsI
+1478302982.990491s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task003_run001/QA/scrubvols.txt?versionId=JLm9F3id1WG8jyNBAlRhFQp75qRiMU3o
+1478302997.104058s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task003_run002/QA/scrubvols.txt?versionId=WDyuORjBZlDbbt_K8iZ04jv0q4dudiLs
+1478303010.982047s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task004_run001/QA/scrubvols.txt?versionId=YEkV1JRSNO5OupPbDEHo4RgmnkcBRR8G
+1478303021.400568s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task004_run002/QA/scrubvols.txt?versionId=tncuCpclgsCMuCmGURw20pbC1LAyN.LH
+1478303047.042s 1 :http://openfmri.s3.amazonaws.com/ds114/sub003/BOLD/task005_run002/QA/scrubvols.txt?versionId=kDpIT_LeZDhR6k6gNLlUwnhA_ZOBhOsZ

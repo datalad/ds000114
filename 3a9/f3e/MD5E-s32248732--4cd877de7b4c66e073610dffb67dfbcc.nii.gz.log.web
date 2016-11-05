@@ -1,3 +1,4 @@
 1473016205.349562s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-02/ses-test/func/sub-02_ses-test_task-linebisection_bold.nii.gz&size=32248732
 1477792350.385813s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-02/ses-test/func/sub-02_ses-test_task-linebisection_bold.nii.gz&size=32248732
 1459399148.964344s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub002/BOLD/task005_run001/bold.nii.gz#size=32248732
+1478299797.084247s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task005_run001/bold.nii.gz?versionId=g4.7KuMkUf4UckQA0UamYsM5AxznEBVV
