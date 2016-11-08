@@ -22,3 +22,12 @@
 1478544759.047334s 1 :http://openfmri.s3.amazonaws.com/ds114/sub005/model/model001/task003_run001.feat/logs/feat0?versionId=Vsv4aHCTKLlWQG1jQYWEAoWDewjUlW_G
 1478544880.637167s 1 :http://openfmri.s3.amazonaws.com/ds114/sub005/model/model001/task003_run002.feat/logs/feat0?versionId=xFT6YB4cGFV5ggmwk3YY4VguHiEms516
 1478545110.109472s 1 :http://openfmri.s3.amazonaws.com/ds114/sub005/model/model001/task004_run001.feat/logs/feat0?versionId=no77CW3GzB3i9kEo4rYEf6oE_HDtPtDW
+1478569294.017602s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/model/model001/task001_run002.feat/logs/feat0?versionId=OlPe61HQ1TCLw2lZQ_bfeVHnscOOegup
+1478570000.314231s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/model/model001/task003_run001.feat/logs/feat0?versionId=_tNwOB_aM2ifpDNH8qiap31Clq9TKIJJ
+1478570135.666099s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/model/model001/task003_run002.feat/logs/feat0?versionId=nBjKDczOFkCn_REfo1vtD3ioStP0keu3
+1478570390.91267s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/model/model001/task004_run001.feat/logs/feat0?versionId=.6zxKcRqXrdaBbnrPzM3bhML1QFHIcp2
+1478574043.606019s 1 :http://openfmri.s3.amazonaws.com/ds114/sub007/model/model001/task001_run001.feat/logs/feat0?versionId=A2Hgb19oUcqYOZ9J3DaD3JaZllQ2xr7R
+1478574396.920352s 1 :http://openfmri.s3.amazonaws.com/ds114/sub007/model/model001/task002_run001.feat/logs/feat0?versionId=RFxgul9cj8otgdGbJnzvtogLCKbvMpdN
+1478574550.755394s 1 :http://openfmri.s3.amazonaws.com/ds114/sub007/model/model001/task002_run002.feat/logs/feat0?versionId=Iov9Pt87Id0tIo.1dDu.6R41HIVjxDsG
+1478575285.774057s 1 :http://openfmri.s3.amazonaws.com/ds114/sub007/model/model001/task004_run001.feat/logs/feat0?versionId=dfliPDNmI6WfECL3QUAyq78uUR.SfO2R
+1478575403.426962s 1 :http://openfmri.s3.amazonaws.com/ds114/sub007/model/model001/task004_run002.feat/logs/feat0?versionId=XIiy2jATmZ3xE_yg7.glTHZeDFh5hAla
