@@ -5,6 +5,33 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "135caf6c-5166-45e8-8d46-4ff5e08985b3",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "1a7dad34-a60c-474d-9b2d-d792136beb81",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000114 [datalad-public]"
+      },
+      {
+        "@id": "30a3fc48-d8bf-4c77-9b0b-975a9008b2bb",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000114"
+      },
+      {
+        "@id": "b2096681-bbfc-4e3a-a832-30d7bbf373a0",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "type": "Dataset"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b130214a-7df7-11e6-887b-002590f97d84",
     "author": [
       "Gorgolewski KJ",
       "Storkey A",
@@ -18,7 +45,6 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc2.pdf"
     ],
-    "name": "ds114",
-    "type": "Dataset"
+    "name": "ds114"
   }
 ]
