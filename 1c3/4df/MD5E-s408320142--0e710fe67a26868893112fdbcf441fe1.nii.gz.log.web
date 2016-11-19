@@ -1,3 +1,4 @@
 1473016216.463044s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-10/ses-test/dwi/sub-10_ses-test_dwi.nii.gz&size=408320142
 1477792360.284489s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-10/ses-test/dwi/sub-10_ses-test_dwi.nii.gz&size=408320142
 1459399180.878145s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub010/dwi/DWI_001.nii.gz#size=408320142
+1479540192.685959s 1 :http://openfmri.s3.amazonaws.com/ds114/sub010/dwi/DWI_001.nii.gz?versionId=r6lkB2f0HR311rXxX2bE4Q28nkVEnMaQ
