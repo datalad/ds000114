@@ -1,2 +1,4 @@
 1473016205.367326s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-02/ses-test/func/sub-02_ses-test_task-linebisection_events.tsv&size=4882
 1477792350.515887s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-02/ses-test/func/sub-02_ses-test_task-linebisection_events.tsv&size=4882
+1487790126.938025108s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-02/ses-test/func/sub-02_ses-test_task-linebisection_events.tsv?versionId=null
+1487791050.19102125s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-02/ses-test/func/sub-02_ses-test_task-linebisection_events.tsv?versionId=null

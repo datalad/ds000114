@@ -18,3 +18,13 @@
 1479329526.196947s 1 :http://openfmri.s3.amazonaws.com/ds114/sub008/BOLD/task003_run001/QA/scrubdes.txt?versionId=w67YRETKJ4MsReUrMTt8WDUatLmI8rtC
 1479329541.008599s 1 :http://openfmri.s3.amazonaws.com/ds114/sub008/BOLD/task003_run002/QA/scrubdes.txt?versionId=3tE8ESEsQQRlsZ4wDlSqjL5PQSaQoGl5
 1479540091.722166s 1 :http://openfmri.s3.amazonaws.com/ds114/sub010/BOLD/task003_run002/QA/scrubdes.txt?versionId=3tkFG0XZl_xmhK3GNt6ILgYI1ZGdPHdw
+1487791969.02327724s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub002/BOLD/task003_run001/QA/scrubdes.txt?versionId=null
+1487792157.842532111s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub003/BOLD/task003_run001/QA/scrubdes.txt?versionId=null
+1487792172.218119912s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub003/BOLD/task003_run002/QA/scrubdes.txt?versionId=null
+1487792331.147640884s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub004/BOLD/task003_run002/QA/scrubdes.txt?versionId=null
+1487793019.062102183s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub006/BOLD/task003_run002/QA/scrubdes.txt?versionId=null
+1487793177.343027127s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub007/BOLD/task003_run001/QA/scrubdes.txt?versionId=null
+1487793190.156425208s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub007/BOLD/task003_run002/QA/scrubdes.txt?versionId=null
+1487793365.042936214s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub008/BOLD/task003_run001/QA/scrubdes.txt?versionId=null
+1487793379.711749268s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub008/BOLD/task003_run002/QA/scrubdes.txt?versionId=null
+1487793725.19970453s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub010/BOLD/task003_run002/QA/scrubdes.txt?versionId=null

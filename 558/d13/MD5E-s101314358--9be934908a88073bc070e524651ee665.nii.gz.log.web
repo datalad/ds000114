@@ -2,3 +2,6 @@
 1477792351.428546s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-02/ses-retest/dwi/sub-02_ses-retest_dwi.nii.gz&size=101314358
 1459399145.556582s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub002/dwi/DWI_002.nii.gz#size=101314358
 1478299828.234401s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/dwi/DWI_002.nii.gz?versionId=_pVvVZBU7X7U5OkDmTKukYaKMwnsKIor
+1487790076.966786065s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-02/ses-retest/dwi/sub-02_ses-retest_dwi.nii.gz?versionId=null
+1487791013.537712115s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-02/ses-retest/dwi/sub-02_ses-retest_dwi.nii.gz?versionId=null
+1487792067.015397304s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub002/dwi/DWI_002.nii.gz?versionId=null

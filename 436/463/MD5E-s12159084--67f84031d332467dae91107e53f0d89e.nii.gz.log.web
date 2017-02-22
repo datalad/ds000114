@@ -1,2 +1,4 @@
 1473016206.740959s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-03/ses-test/func/sub-03_ses-test_task-overtverbgeneration_bold.nii.gz&size=12159084
 1477792348.273511s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-03/ses-test/func/sub-03_ses-test_task-overtverbgeneration_bold.nii.gz&size=12159084
+1487790200.89753291s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-03/ses-test/func/sub-03_ses-test_task-overtverbgeneration_bold.nii.gz?versionId=null
+1487791134.24594651s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-03/ses-test/func/sub-03_ses-test_task-overtverbgeneration_bold.nii.gz?versionId=null

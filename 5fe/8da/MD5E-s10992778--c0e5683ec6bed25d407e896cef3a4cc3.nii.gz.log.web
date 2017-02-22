@@ -1,2 +1,4 @@
 1473016213.939572s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-09/ses-retest/func/sub-09_ses-retest_task-overtwordrepetition_bold.nii.gz&size=10992778
 1477792358.424895s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-09/ses-retest/func/sub-09_ses-retest_task-overtwordrepetition_bold.nii.gz&size=10992778
+1487790645.68149133s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-09/ses-retest/func/sub-09_ses-retest_task-overtwordrepetition_bold.nii.gz?versionId=null
+1487791448.905376444s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-09/ses-retest/func/sub-09_ses-retest_task-overtwordrepetition_bold.nii.gz?versionId=null

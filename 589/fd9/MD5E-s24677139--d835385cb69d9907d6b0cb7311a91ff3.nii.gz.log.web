@@ -2,3 +2,6 @@
 1477792356.667178s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-04/ses-test/func/sub-04_ses-test_task-covertverbgeneration_bold.nii.gz&size=24677139
 1459399155.355263s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub004/BOLD/task002_run001/bold.nii.gz#size=24677139
 1478534910.205526s 1 :http://openfmri.s3.amazonaws.com/ds114/sub004/BOLD/task002_run001/bold.nii.gz?versionId=UvgDsptFpF1qba62OrYbx3b5t8FyBOfj
+1487790309.588475089s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-04/ses-test/func/sub-04_ses-test_task-covertverbgeneration_bold.nii.gz?versionId=null
+1487791176.831933199s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-04/ses-test/func/sub-04_ses-test_task-covertverbgeneration_bold.nii.gz?versionId=null
+1487792298.670413733s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub004/BOLD/task002_run001/bold.nii.gz?versionId=null

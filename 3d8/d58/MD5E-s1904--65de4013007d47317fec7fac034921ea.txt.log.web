@@ -16,3 +16,12 @@
 1479334120.779982s 1 :http://openfmri.s3.amazonaws.com/ds114/sub009/BOLD/task005_run002/QA/scrubdes.txt?versionId=cIO.Ejpz_0zO25TX3OPYGrAnpDk.UJKR
 1479540142.050295s 1 :http://openfmri.s3.amazonaws.com/ds114/sub010/BOLD/task005_run001/QA/scrubdes.txt?versionId=apRH25i7ewqZyJjnHn4qvU4t9uj_YNEg
 1479540160.188693s 1 :http://openfmri.s3.amazonaws.com/ds114/sub010/BOLD/task005_run002/QA/scrubdes.txt?versionId=qIkorV8HBjcYh2V0CCIe7NZIvI.j92W5
+1487792223.919401153s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub003/BOLD/task005_run002/QA/scrubdes.txt?versionId=null
+1487793073.940758541s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub006/BOLD/task005_run002/QA/scrubdes.txt?versionId=null
+1487793236.812715151s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub007/BOLD/task005_run001/QA/scrubdes.txt?versionId=null
+1487793416.167822462s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub008/BOLD/task005_run001/QA/scrubdes.txt?versionId=null
+1487793428.384330145s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub008/BOLD/task005_run002/QA/scrubdes.txt?versionId=null
+1487793586.975339137s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub009/BOLD/task005_run001/QA/scrubdes.txt?versionId=null
+1487793604.66564451s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub009/BOLD/task005_run002/QA/scrubdes.txt?versionId=null
+1487793765.205343432s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub010/BOLD/task005_run001/QA/scrubdes.txt?versionId=null
+1487793776.745828729s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub010/BOLD/task005_run002/QA/scrubdes.txt?versionId=null

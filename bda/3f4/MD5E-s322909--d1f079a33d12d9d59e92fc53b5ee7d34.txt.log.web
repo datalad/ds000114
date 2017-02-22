@@ -2,3 +2,4 @@
 1478568965.521558s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/BOLD/task005_run001/QA/confound.txt?versionId=G.mZT.WKVJCLqbxexyxoniwc.KpZTsAd
 1478570928.402809s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/model/model001/task005_run001.feat/confoundevs.txt?versionId=0EP5T2WJSFpMAnpSxHLGYCU79nML.D1N
 1478573375.161979s 1 :http://openfmri.s3.amazonaws.com/ds114/sub006/model/model002/task005_run001.feat/confoundevs.txt?versionId=BB_wzirCq_KvUrzM_0bbi9p4w.HMWPPd
+1487793054.662017003s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub006/BOLD/task005_run001/QA/confound.txt?versionId=null
