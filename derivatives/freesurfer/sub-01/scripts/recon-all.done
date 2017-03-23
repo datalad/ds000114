@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT sub-01
+START_TIME Mon Sep 12 16:25:19 UTC 2016
+END_TIME Tue Sep 13 00:34:52 UTC 2016
+RUNTIME_HOURS 8.159
+USER chrisgor
+HOST sh-7-21.local
+PROCESSOR x86_64
+OS Linux
+UNAME Linux sh-7-21.local 2.6.32-573.12.1.el6.x86_64 #1 SMP Tue Dec 15 21:19:08 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+VERSION $Id: recon-all,v 1.379.2.73 2013/05/12 23:15:37 nicks Exp $
+CMDPATH /opt/freesurfer/bin/recon-all
+CMDARGS -subjid sub-01 -sd /scratch/users/chrisgor/ds114_test1/derivatives/freesurfer -i /scratch/users/chrisgor/ds114_test1/sub-01/anat/sub-01_T1w.nii.gz -all -openmp 16

@@ -1,0 +1,1 @@
+mris_ca_label -l ../label/lh.cortex.label -aseg ../mri/aseg.mgz -seed 1234 sub-02 lh ../surf/lh.sphere.reg /opt/freesurfer/average/lh.DKTatlas40.gcs ../label/lh.aparc.DKTatlas40.annot

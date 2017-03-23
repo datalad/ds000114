@@ -1,0 +1,281 @@
+/scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri
+/opt/freesurfer/bin/mri_nu_correct.mni
+--i orig.mgz --o nu.mgz --uchar transforms/talairach.xfm --n 2
+nIters 2
+$Id: mri_nu_correct.mni,v 1.18.2.1 2013/01/09 21:23:42 nicks Exp $
+Linux sh-7-21.local 2.6.32-573.12.1.el6.x86_64 #1 SMP Tue Dec 15 21:19:08 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+Mon Sep 12 16:26:41 UTC 2016
+Program nu_correct, built from:
+Package MNI N3, version 1.10, compiled by nicks@minerva (x86_64-unknown-linux-gnu) on 2010-02-20 at 17:32:37
+tmpdir is ./tmp.mri_nu_correct.mni.20519
+/scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri
+mri_convert orig.mgz ./tmp.mri_nu_correct.mni.20519/nu0.mnc -odt float
+mri_convert orig.mgz ./tmp.mri_nu_correct.mni.20519/nu0.mnc -odt float 
+$Id: mri_convert.c,v 1.179.2.7 2012/09/05 21:55:16 mreuter Exp $
+reading from orig.mgz...
+TR=9.67, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.65661e-09, -9.31323e-10)
+j_ras = (-9.31323e-10, 7.45058e-09, -1)
+k_ras = (-1.5134e-09, 1, 7.45058e-09)
+changing data type from uchar to float (noscale = 0)...
+writing to ./tmp.mri_nu_correct.mni.20519/nu0.mnc...
+ 
+--------------------------------------------------------
+Iteration 1 Mon Sep 12 16:26:43 UTC 2016
+nu_correct -clobber ./tmp.mri_nu_correct.mni.20519/nu0.mnc ./tmp.mri_nu_correct.mni.20519/nu1.mnc -tmpdir ./tmp.mri_nu_correct.mni.20519/0/
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 165.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 170.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 211.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1051.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1054.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1449.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1455.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1457.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1481.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1631.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1633.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1635.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1637.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1639.
+	(Maybe you should just omit the defined()?)
+[chrisgor@sh-7-21.local:/scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri/] [2016-09-12 16:26:43] running:
+  /opt/freesurfer/mni/bin/nu_estimate_np_and_em -parzen -log -sharpen 0.15 0.01 -iterations 50 -stop 0.001 -shrink 4 -auto_mask -nonotify -b_spline 1 -distance 200 -quiet -execute -clobber -nokeeptmp -tmpdir ./tmp.mri_nu_correct.mni.20519/0/ ./tmp.mri_nu_correct.mni.20519/nu0.mnc ./tmp.mri_nu_correct.mni.20519/nu1.imp
+
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Number of iterations: 22 
+CV of field change: 0.000972363
+[chrisgor@sh-7-21.local:/scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri/] [2016-09-12 16:26:55] running:
+  /opt/freesurfer/mni/bin/make_template -quiet -shrink 3 ./tmp.mri_nu_correct.mni.20519/nu0.mnc ./tmp.mri_nu_correct.mni.20519/0//template.mnc
+
+Transforming slices:......................................................................................Done
+Transforming slices:................................................................................................................................................................................................................................................................Done
+ 
+ 
+--------------------------------------------------------
+Iteration 2 Mon Sep 12 16:27:02 UTC 2016
+nu_correct -clobber ./tmp.mri_nu_correct.mni.20519/nu1.mnc ./tmp.mri_nu_correct.mni.20519/nu2.mnc -tmpdir ./tmp.mri_nu_correct.mni.20519/1/
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 165.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 170.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 211.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1051.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1054.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1449.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1455.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1457.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1481.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1631.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1633.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1635.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1637.
+	(Maybe you should just omit the defined()?)
+defined(@array) is deprecated at /opt/freesurfer/mni/bin/nu_estimate_np_and_em line 1639.
+	(Maybe you should just omit the defined()?)
+[chrisgor@sh-7-21.local:/scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri/] [2016-09-12 16:27:02] running:
+  /opt/freesurfer/mni/bin/nu_estimate_np_and_em -parzen -log -sharpen 0.15 0.01 -iterations 50 -stop 0.001 -shrink 4 -auto_mask -nonotify -b_spline 1 -distance 200 -quiet -execute -clobber -nokeeptmp -tmpdir ./tmp.mri_nu_correct.mni.20519/1/ ./tmp.mri_nu_correct.mni.20519/nu1.mnc ./tmp.mri_nu_correct.mni.20519/nu2.imp
+
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Use of ?PATTERN? without explicit operator is deprecated at /opt/freesurfer/mni/bin/sharpen_volume line 153.
+Processing:.................................................................Done
+Number of iterations: 20 
+CV of field change: 0.000972435
+[chrisgor@sh-7-21.local:/scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri/] [2016-09-12 16:27:13] running:
+  /opt/freesurfer/mni/bin/make_template -quiet -shrink 3 ./tmp.mri_nu_correct.mni.20519/nu1.mnc ./tmp.mri_nu_correct.mni.20519/1//template.mnc
+
+Transforming slices:......................................................................................Done
+Transforming slices:................................................................................................................................................................................................................................................................Done
+ 
+ 
+ 
+mri_binarize --i ./tmp.mri_nu_correct.mni.20519/nu2.mnc --min -1 --o ./tmp.mri_nu_correct.mni.20519/ones.mgz
+
+$Id: mri_binarize.c,v 1.26.2.1 2011/04/08 15:40:50 greve Exp $
+cwd /scratch/users/chrisgor/ds114_test1/derivatives/freesurfer/sub-01/mri
+cmdline mri_binarize --i ./tmp.mri_nu_correct.mni.20519/nu2.mnc --min -1 --o ./tmp.mri_nu_correct.mni.20519/ones.mgz 
+sysname  Linux
+hostname sh-7-21.local
+machine  x86_64
+user     chrisgor
+
+input      ./tmp.mri_nu_correct.mni.20519/nu2.mnc
+frame      0
+nErode3d   0
+nErode2d   0
+output     ./tmp.mri_nu_correct.mni.20519/ones.mgz
+Binarizing based on threshold
+min        -1
+max        +infinity
+binval        1
+binvalnot     0
+Found 16777216 values in range
+Counting number of voxels
+Found 16777216 voxels in final mask
+mri_binarize done
+mri_segstats --id 1 --seg ./tmp.mri_nu_correct.mni.20519/ones.mgz --i orig.mgz --sum ./tmp.mri_nu_correct.mni.20519/sum.junk --avgwf ./tmp.mri_nu_correct.mni.20519/input.mean.dat
+
+$Id: mri_segstats.c,v 1.75.2.9 2013/02/16 00:09:33 greve Exp $
+cwd 
+cmdline mri_segstats --id 1 --seg ./tmp.mri_nu_correct.mni.20519/ones.mgz --i orig.mgz --sum ./tmp.mri_nu_correct.mni.20519/sum.junk --avgwf ./tmp.mri_nu_correct.mni.20519/input.mean.dat 
+sysname  Linux
+hostname sh-7-21.local
+machine  x86_64
+user     chrisgor
+UseRobust  0
+Loading ./tmp.mri_nu_correct.mni.20519/ones.mgz
+Loading orig.mgz
+Voxel Volume is 1 mm^3
+Generating list of segmentation ids
+Found   1 segmentations
+Computing statistics for each segmentation
+  0     1                                     16777216  16777216.000
+
+Reporting on   1 segmentations
+Computing spatial average of each frame
+  0
+Writing to ./tmp.mri_nu_correct.mni.20519/input.mean.dat
+mri_segstats done
+mri_segstats --id 1 --seg ./tmp.mri_nu_correct.mni.20519/ones.mgz --i ./tmp.mri_nu_correct.mni.20519/nu2.mnc --sum ./tmp.mri_nu_correct.mni.20519/sum.junk --avgwf ./tmp.mri_nu_correct.mni.20519/output.mean.dat
+
+$Id: mri_segstats.c,v 1.75.2.9 2013/02/16 00:09:33 greve Exp $
+cwd 
+cmdline mri_segstats --id 1 --seg ./tmp.mri_nu_correct.mni.20519/ones.mgz --i ./tmp.mri_nu_correct.mni.20519/nu2.mnc --sum ./tmp.mri_nu_correct.mni.20519/sum.junk --avgwf ./tmp.mri_nu_correct.mni.20519/output.mean.dat 
+sysname  Linux
+hostname sh-7-21.local
+machine  x86_64
+user     chrisgor
+UseRobust  0
+Loading ./tmp.mri_nu_correct.mni.20519/ones.mgz
+Loading ./tmp.mri_nu_correct.mni.20519/nu2.mnc
+Voxel Volume is 1 mm^3
+Generating list of segmentation ids
+Found   1 segmentations
+Computing statistics for each segmentation
+  0     1                                     16777216  16777216.000
+
+Reporting on   1 segmentations
+Computing spatial average of each frame
+  0
+Writing to ./tmp.mri_nu_correct.mni.20519/output.mean.dat
+mri_segstats done
+mris_calc -o ./tmp.mri_nu_correct.mni.20519/nu2.mnc ./tmp.mri_nu_correct.mni.20519/nu2.mnc mul 1.11468654602001713465
+mri_convert ./tmp.mri_nu_correct.mni.20519/nu2.mnc nu.mgz --like orig.mgz
+mri_convert ./tmp.mri_nu_correct.mni.20519/nu2.mnc nu.mgz --like orig.mgz 
+$Id: mri_convert.c,v 1.179.2.7 2012/09/05 21:55:16 mreuter Exp $
+reading from ./tmp.mri_nu_correct.mni.20519/nu2.mnc...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.65661e-09, -9.31323e-10)
+j_ras = (-9.31323e-10, 7.45058e-09, -1)
+k_ras = (-1.5134e-09, 1, 7.45058e-09)
+INFO: transform src into the like-volume: orig.mgz
+writing to nu.mgz...
+mri_make_uchar nu.mgz transforms/talairach.xfm nu.mgz
+type change took 0 minutes and 6 seconds.
+mapping ( 7, 86) to ( 3, 110)
+ 
+ 
+Mon Sep 12 16:27:44 UTC 2016
+mri_nu_correct.mni done
