@@ -1,0 +1,7 @@
+1473016207.918555s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-04/ses-test/dwi/sub-04_ses-test_dwi.nii.gz&size=104883316
+1477792357.136749s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-04/ses-test/dwi/sub-04_ses-test_dwi.nii.gz&size=104883316
+1459399154.37229s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub004/dwi/DWI_001.nii.gz#size=104883316
+1478535094.391383s 1 :http://openfmri.s3.amazonaws.com/ds114/sub004/dwi/DWI_001.nii.gz?versionId=q9mcmWCu7fJDA7YrHhyhdQEGELlbwkr3
+1487790272.773743582s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-04/ses-test/dwi/sub-04_ses-test_dwi.nii.gz?versionId=null
+1487791173.564825065s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-04/ses-test/dwi/sub-04_ses-test_dwi.nii.gz?versionId=null
+1487792399.739497597s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub004/dwi/DWI_001.nii.gz?versionId=null

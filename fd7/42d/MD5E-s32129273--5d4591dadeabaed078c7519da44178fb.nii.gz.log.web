@@ -1,0 +1,7 @@
+1473016211.971434s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-07/ses-test/func/sub-07_ses-test_task-linebisection_bold.nii.gz&size=32129273
+1477792351.688878s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-07/ses-test/func/sub-07_ses-test_task-linebisection_bold.nii.gz&size=32129273
+1459399170.933249s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub007/BOLD/task005_run001/bold.nii.gz#size=32129273
+1478573841.524543s 1 :http://openfmri.s3.amazonaws.com/ds114/sub007/BOLD/task005_run001/bold.nii.gz?versionId=Kks7aX4xEI0wZVo0.VVbxsc4GZ_8pfgp
+1487790529.185385719s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-07/ses-test/func/sub-07_ses-test_task-linebisection_bold.nii.gz?versionId=null
+1487791358.030610928s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-07/ses-test/func/sub-07_ses-test_task-linebisection_bold.nii.gz?versionId=null
+1487793242.993880297s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub007/BOLD/task005_run001/bold.nii.gz?versionId=null

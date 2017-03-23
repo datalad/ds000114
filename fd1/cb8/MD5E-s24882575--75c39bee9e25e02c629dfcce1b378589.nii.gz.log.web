@@ -1,0 +1,7 @@
+1473016205.262652s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-02/ses-test/func/sub-02_ses-test_task-fingerfootlips_bold.nii.gz&size=24882575
+1477792350.588549s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-02/ses-test/func/sub-02_ses-test_task-fingerfootlips_bold.nii.gz&size=24882575
+1459399147.719582s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub002/BOLD/task003_run001/bold.nii.gz#size=24882575
+1478299748.550412s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task003_run001/bold.nii.gz?versionId=FnBKYbVObD48g7QLl1hcmq7i6nSWgVSB
+1487790121.850921746s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-02/ses-test/func/sub-02_ses-test_task-fingerfootlips_bold.nii.gz?versionId=null
+1487791046.91172859s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-02/ses-test/func/sub-02_ses-test_task-fingerfootlips_bold.nii.gz?versionId=null
+1487791980.408843121s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub002/BOLD/task003_run001/bold.nii.gz?versionId=null

@@ -1,0 +1,7 @@
+1473016213.36131s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-09/ses-retest/anat/sub-09_ses-retest_T1w.nii.gz&size=9038046
+1477792358.383693s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-09/ses-retest/anat/sub-09_ses-retest_T1w.nii.gz&size=9038046
+1459399179.697551s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub009/anatomy/highres002.nii.gz#size=9038046
+1479334137.412297s 1 :http://openfmri.s3.amazonaws.com/ds114/sub009/anatomy/highres002.nii.gz?versionId=Ncq35ntulscmPLBV9utjc_WuT0oK1Tsp
+1487790616.589021685s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.0/uncompressed/sub-09/ses-retest/anat/sub-09_ses-retest_T1w.nii.gz?versionId=null
+1487791427.579167398s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_R2.0.1/uncompressed/sub-09/ses-retest/anat/sub-09_ses-retest_T1w.nii.gz?versionId=null
+1487793621.624755435s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub009/anatomy/highres002.nii.gz?versionId=null

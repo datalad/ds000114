@@ -1,0 +1,6 @@
+1459399142.884552s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub001/BOLD/task002_run001/QA/scrubvols.txt#size=12
+1459399149.092862s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub002/BOLD/task005_run001/QA/scrubvols.txt#size=12
+1478296774.718567s 1 :http://openfmri.s3.amazonaws.com/ds114/sub001/BOLD/task002_run001/QA/scrubvols.txt?versionId=6aBWTIrOfjeAkXHtu.YlzX6HEaJUmbRy
+1478299790.588185s 1 :http://openfmri.s3.amazonaws.com/ds114/sub002/BOLD/task005_run001/QA/scrubvols.txt?versionId=wxnpmizQXmlg013vVd1nRU7MWK1Ktz44
+1487791740.808884139s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub001/BOLD/task002_run001/QA/scrubvols.txt?versionId=null
+1487792026.133569916s 1 http://openneuro.s3.amazonaws.com/ds000114/ds000114_unrevisioned/uncompressed/sub002/BOLD/task005_run001/QA/scrubvols.txt?versionId=null
