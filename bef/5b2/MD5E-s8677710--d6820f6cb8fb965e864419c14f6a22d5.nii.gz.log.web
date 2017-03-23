@@ -1,6 +1,7 @@
 1473016203.740458s 1 :dl+archive:MD5E-s4665038365--fa2bbc92e47d15ce399e1a6722834f68.tgz#path=ds114_R2.0.0/sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz&size=8677710
 1477792352.69022s 1 :dl+archive:MD5E-s4665193070--e3f00f47b231bde13fe6f2ee8f4c864d.zip#path=ds000114_R2.0.1/sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz&size=8677710
 1459399145.25134s 1 :dl+archive:MD5E-s4930156456--bf97c46872ce26f7e3f1e6c0a91bf252.tgz/ds114/sub001/anatomy/highres001.nii.gz#size=8677710
+1490242682.542061577s 1 :dl+archive:MD5E-s825921204--94a98b57af218562235581089cfefb9a.tar.gz#path=ds114_test1/sub-01/anat/sub-01_T1w.nii.gz&size=8677710
 1478296865.233335s 1 :http://openfmri.s3.amazonaws.com/ds114/sub001/anatomy/highres001.nii.gz?versionId=TbWYul.L280yBz6LoT_RjNEK8BiML5.k
 1478297007.124403s 1 :http://openfmri.s3.amazonaws.com/ds114/sub001/model/model001/task001_run001.feat/reg/highres_head.nii.gz?versionId=A9.gBUtW2QgsW4PriO1JHRe60vRSeCXL
 1478297092.233989s 1 :http://openfmri.s3.amazonaws.com/ds114/sub001/model/model001/task001_run002.feat/reg/highres_head.nii.gz?versionId=ZI2SZJiQJBG4j9R1grvDGerloYwf..WJ
