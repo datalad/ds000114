@@ -1,6 +1,0 @@
-{
-    "BIDSVersion": "1.0.0rc2",
-    "Name": "ds114",
-    "Authors": ["Gorgolewski KJ", "Storkey A", "Bastin ME", "Whittle IR", "Wardlaw JM", "Pernet CR"],
-    "ReferencesAndLinks": "A test-retest fMRI dataset for motor, language and spatial attention functions, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641991/"
-}
