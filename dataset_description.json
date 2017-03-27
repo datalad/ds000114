@@ -3,5 +3,5 @@
     "Name": "ds114",
     "Authors": ["Gorgolewski KJ", "Storkey A", "Bastin ME", "Whittle IR", "Wardlaw JM", "Pernet CR", "Ghosh S"],
     "ReferencesAndLinks": "A test-retest fMRI dataset for motor, language and spatial attention functions, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641991/",
-    "Description": "This is just a subset of the original ds000114 distributed by openfmri (///openfmri/ds000114 on datalad) with FreeSurfer surfaces pre-computed"
+    "Description": "This is just a subset of the original ds000114 distributed by OpenfMRI (///openfmri/ds000114 on datalad) with FreeSurfer surfaces pre-computed"
 }
